@@ -49,7 +49,8 @@ echo "api_key=YOUR_API_KEY" > .env
 python generate_portrait.py
 
 
-
+# demo video
+https://youtu.be/ymBrl0JVOeo?si=89NaXTQeucvl6Tju
 Team Members:
 - Nia Desily(UI/UX)
 - Anna Olivia Shelly(Developer)
