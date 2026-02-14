@@ -29,6 +29,11 @@ Each step progressively shows the drawing process in **grayscale pencil sketch s
 Install dependencies:
 ```bash
 pip install matplotlib pillow python-dotenv google-genai
+matplotlib
+pillow
+python-dotenv
+google-genai
+
 
 
 Team Members:
