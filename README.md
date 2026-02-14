@@ -18,3 +18,7 @@ Step-by-step navigation
 Save generated tutorial
 Dark mode support
 
+Team Members:
+- Nia Desily(UI/UX)
+- Anna Olivia Shelly(Developer)
+
