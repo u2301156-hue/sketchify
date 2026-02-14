@@ -35,6 +35,20 @@ python-dotenv
 google-genai
 
 
+# Clone repo
+git clone https://github.com/<username>/PortraitTutorial.git
+cd PortraitTutorial
+
+# Install dependencies
+pip install -r requirements.txt  # or use pip install commands above
+
+# Add your API key in a .env file
+echo "api_key=YOUR_API_KEY" > .env
+
+# Place your input image in assets/input_image/
+python generate_portrait.py
+
+
 
 Team Members:
 - Nia Desily(UI/UX)
